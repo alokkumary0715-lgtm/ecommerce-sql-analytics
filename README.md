@@ -18,9 +18,6 @@ Relational schema with:
 
 ## 🔑 Key Analysis
 - Revenue trends & monthly growth
-- Customer Lifetime Value (CLV)
-- Cohort & retention analysis
-- Pareto (80/20) revenue contribution
 - Top customers & product categories
 
 ## 📈 Key Insights
